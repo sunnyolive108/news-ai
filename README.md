@@ -11,3 +11,5 @@ I'm building an Ai that learns to nail the type of journalism needed
 
       we'll see..
 UPDATE: we'll start with saving the posts into a file!  
+this is especially important at the beginning, where testing is crucial  
+it will likely change and adapt into something FULLY automatic <3
