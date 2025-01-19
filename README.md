@@ -10,3 +10,4 @@ I'm building an Ai that learns to nail the type of journalism needed
     - into the media itself directly
 
       we'll see..
+UPDATE: we'll start with saving the posts into a file!  
