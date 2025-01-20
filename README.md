@@ -18,8 +18,9 @@ this is INSANE
 ...
 
 
-for now, the Program should ONLY draw from the WhatsApp group
-and post the contents into a designated container
-for me to manually grab it
+for now, the Program should ONLY draw from the WhatsApp group  
+and post the contents into a designated container  
+for me to manually grab it  
 
 this is the first semi-automated approach
+  
